@@ -309,3 +309,4 @@ TSWLatexianTemp*
 # ignore the folder
 dataFolder/
 *.mp4
+.ipynb_checkpoints
